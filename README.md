@@ -11,7 +11,7 @@
 ---
 
 ## 🛠️ Skills  
-- **Tools**: Altium Designer, LTspice, Multisim, MATLAB, Arduino.  
+- **Tools**: Altium Designer, EasyEDA, Proteus 8 simulation, Tinkercad.  
 - **Languages**: C, Python (beginner).  
 - **Expertise**: PCB Design, Circuit Analysis, Embedded Systems.  
 
