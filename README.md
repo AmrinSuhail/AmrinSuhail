@@ -11,7 +11,7 @@
 ---
 
 ## 🛠️ Skills  
-- **Tools**: Altium Designer, EasyEDA, Proteus 8 simulation, Tinkercad.  
+- **Tools**: Altium Designer, LTspice, Multisim, MATLAB, Arduino.  
 - **Languages**: C, Python (beginner).  
 - **Expertise**: PCB Design, Circuit Analysis, Embedded Systems.  
 
@@ -33,6 +33,6 @@
 
 ## 📬 Let's Connect!  
 🌐 **Portfolio**: *Coming Soon!*  
-📧 **Email**: [mohamedamrinsuhail@gmail.com](mailto:your.email@example.com)  
-🔗 **LinkedIn**: [https://www.linkedin.com/in/mohamed-amrin-suhail-m-n-61657a211](https://linkedin.com/in/yourprofile)  
+📧 **Email**: [your.email@example.com](mohamedamrinsuhail@gmail.com)  
+🔗 **LinkedIn**: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
 🐦 **Twitter**: [@yourhandle](https://twitter.com/yourhandle)  
