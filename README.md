@@ -34,5 +34,5 @@
 ## 📬 Let's Connect!  
 🌐 **Portfolio**: *Coming Soon!*  
 📧 **Email**: [mohamedamrinsuhail@gmail.com](mailto:your.email@example.com)  
-🔗 **LinkedIn**: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
+🔗 **LinkedIn**: [https://www.linkedin.com/in/mohamed-amrin-suhail-m-n-61657a211](https://linkedin.com/in/yourprofile)  
 🐦 **Twitter**: [@yourhandle](https://twitter.com/yourhandle)  
