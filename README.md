@@ -33,6 +33,6 @@
 
 ## 📬 Let's Connect!  
 🌐 **Portfolio**: *Coming Soon!*  
-📧 **Email**: [your.email@example.com](mohamedamrinsuhail@gmail.com)  
+📧 **Email**: [mohamedamrinsuhail@gmail.com](mohamedamrinsuhail@gmail.com)  
 🔗 **LinkedIn**: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
 🐦 **Twitter**: [@yourhandle](https://twitter.com/yourhandle)  
