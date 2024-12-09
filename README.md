@@ -2,7 +2,7 @@
 **Electronics and Communication Engineering (ECE) Graduate | Hardware & PCB Design Enthusiast | Passionate Learner**  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-amrin-suhail-m-n-61657a211)  
-[![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=flat&logo=gmail&logoColor=white)](mailto:mohamedamrinsuhail@gmail.com)
+[![Email Me](https://img.shields.io/badge/Email-Me-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335)](mailto:mohamedamrinsuhail@gmail.com)
 
 ---
 
