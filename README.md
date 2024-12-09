@@ -34,16 +34,6 @@ Here are a few projects and tutorials I am working on:
 
 ---
 
-## 📖 Tutorials  
-I'm committed to creating tutorials to help beginners in the electronics field. Check out my tutorials on:  
-- **PCB Design Basics**  
-- **Getting Started with Altium Designer**  
-- **Intro to Embedded Systems**  
-
-Stay tuned for detailed write-ups and demo repositories.  
-
----
-
 ## 📫 Let's Connect  
 - **Portfolio Website (Coming Soon)**  
 - [LinkedIn Profile](https://www.linkedin.com/in/mohamed-amrin-suhail-m-n-61657a211)  
