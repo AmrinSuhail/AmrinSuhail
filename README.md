@@ -37,7 +37,8 @@ Here are a few projects and tutorials I am working on:
 
 ## 📫 Let's Connect  
 - **Portfolio Website (Coming Soon)**  
--[![LinkedIn](https://img.shields.io/badge/Connect%20on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-amrin-suhail-m-n-61657a211)
+-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20with%20Me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=003A5D&color=00A0DC)](https://www.linkedin.com/in/mohamed-amrin-suhail-m-n-61657a211)
+
 
  
 -[![Gmail](https://img.shields.io/badge/Email-Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohamedamrinsuhail@gmail.com)
