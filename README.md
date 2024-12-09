@@ -27,12 +27,6 @@ Here are a few projects and tutorials I am working on:
    - Designing a PCB for a DC-to-DC converter in Altium Designer.  
    - Exploring component selection, layout optimization, and testing.  
 
-2. **PCB Design Tutorials**  
-   - A series of tutorials for beginners covering PCB basics, tools, and tips.  
-
-3. **Basic Microcontroller Applications**  
-   - Simple projects like LED blink, sensor interfacing, and basic automation.  
-
 ---
 
 ## 📫 Let's Connect  
@@ -45,12 +39,6 @@ Here are a few projects and tutorials I am working on:
 
   
 
----
-
-## 🌱 Future Goals  
-- Enhance my PCB design skills by working on advanced projects.  
-- Dive deeper into embedded systems and IoT solutions.  
-- Share knowledge through blogs, tutorials, and open-source contributions.  
 
 ---
 
