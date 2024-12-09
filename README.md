@@ -38,7 +38,8 @@ Here are a few projects and tutorials I am working on:
 - **Portfolio Website (Coming Soon)**  
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-amrin-suhail-m-n-61657a211)
  
-- **Email:** [mohamedamrinsuhail@gmail.com](mailto:mohamedamrinsuhail@gmail.com)  
+- **Email:** [![Gmail](https://img.shields.io/badge/Email-Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohamedamrinsuhail@gmail.com)
+  
 
 ---
 
