@@ -1,38 +1,60 @@
-# 👋 Hi, I'm Mohamed Amrin Suhail M N!  
-**Electronics Engineer | PCB Designer | Hardware Enthusiast**
+# 💻 Mohamed Amrin Suhail M N  
+**Electronics and Communication Engineering (ECE) Graduate | Hardware & PCB Design Enthusiast | Passionate Learner**  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-amrin-suhail-m-n-61657a211)  
+[![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=flat&logo=gmail&logoColor=white)](mailto:mohamedamrinsuhail@gmail.com)
 
 ---
 
-## 🚀 About Me  
-🎓 **ECE Graduate** (2024) from **SRM Valliammai Engineering College**.  
-💡 Passionate about hardware design, PCB layout, and embedded systems.  
-📈 Currently building a **DC-to-DC converter PCB design** project in Altium.  
+## 👋 About Me  
+Hi, I'm **Mohamed Amrin Suhail**, an ECE graduate passionate about electronics, hardware design, and PCB development. I'm currently building my expertise in hardware development, Altium Designer, and embedded systems. I enjoy exploring new technologies, sharing knowledge, and working on innovative projects.
 
 ---
 
 ## 🛠️ Skills  
-- **Tools**: Altium Designer, LTspice, Multisim, MATLAB, Arduino.  
-- **Languages**: C, Python (beginner).  
-- **Expertise**: PCB Design, Circuit Analysis, Embedded Systems.  
+- **Electronics Fundamentals:** Circuit Design, Simulation, and Analysis  
+- **PCB Design Tools:** Altium Designer, KiCad (learning phase)  
+- **Embedded Systems:** Microcontrollers, Arduino, ESP32  
+- **Programming:** C, Python (basic level)  
 
 ---
 
-## 💼 Projects  
-1. **DC-to-DC Converter Design**  
-   - Schematic and PCB layout for a buck/boost converter.  
-   - Tools: Altium Designer | Focus: Compact, optimized performance.  
+## 🚀 Projects  
+Here are a few projects and tutorials I am working on:  
+1. **DC-to-DC Converter Design (PCB Project)**  
+   - Designing a PCB for a DC-to-DC converter in Altium Designer.  
+   - Exploring component selection, layout optimization, and testing.  
 
-2. **Simple Line Follower Robot**  
-   - Embedded system project using Arduino.  
-   - Developed efficient circuit design and debugging methods.  
+2. **PCB Design Tutorials**  
+   - A series of tutorials for beginners covering PCB basics, tools, and tips.  
 
-3. **Portfolio Website**  
-   - Building a personal website to showcase projects and skills.  
+3. **Basic Microcontroller Applications**  
+   - Simple projects like LED blink, sensor interfacing, and basic automation.  
 
 ---
 
-## 📬 Let's Connect!  
-🌐 **Portfolio**: *Coming Soon!*  
-📧 **Email**: [mohamedamrinsuhail@gmail.com](mohamedamrinsuhail@gmail.com)  
-🔗 **LinkedIn**: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
-🐦 **Twitter**: [@yourhandle](https://twitter.com/yourhandle)  
+## 📖 Tutorials  
+I'm committed to creating tutorials to help beginners in the electronics field. Check out my tutorials on:  
+- **PCB Design Basics**  
+- **Getting Started with Altium Designer**  
+- **Intro to Embedded Systems**  
+
+Stay tuned for detailed write-ups and demo repositories.  
+
+---
+
+## 📫 Let's Connect  
+- **Portfolio Website (Coming Soon)**  
+- [LinkedIn Profile](https://www.linkedin.com/in/mohamed-amrin-suhail-m-n-61657a211)  
+- **Email:** [mohamedamrinsuhail@gmail.com](mailto:mohamedamrinsuhail@gmail.com)  
+
+---
+
+## 🌱 Future Goals  
+- Enhance my PCB design skills by working on advanced projects.  
+- Dive deeper into embedded systems and IoT solutions.  
+- Share knowledge through blogs, tutorials, and open-source contributions.  
+
+---
+
+✨ _"Learning never exhausts the mind."_ – Leonardo da Vinci  
