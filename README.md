@@ -18,7 +18,6 @@ Hi, I'm **Mohamed Amrin Suhail**, an ECE graduate passionate about electronics, 
 - **Simulation Tools:** Proteus 8, Tinkercad 
 - **Embedded Systems:** Microcontrollers, Arduino, ESP32  
 - **Programming:** C, Python (basic level)  
-![Picture](https://github.com/user-attachments/assets/6b21172e-f283-41bf-b4f8-b7f0bacf54b8)
 
 ---
 
