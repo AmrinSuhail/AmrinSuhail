@@ -13,9 +13,9 @@ Hi, I'm **Mohamed Amrin Suhail**, an ECE graduate passionate about electronics, 
 ---
 
 ## 🛠️ Skills  
-- **Electronics Fundamentals:** Circuit Design, Simulation, and Analysis  
-- **PCB Design Tools:** Altium Designer, KiCad, EasyEDA (learning phase)
-- **Simulation Tools:** Proteus 8, Tinkercad 
+- **Electronics Fundamentals:** Circuit Design, Simulation
+- **PCB Design Tools:** Altium Designer,EasyEDA (learning phase)
+- **Simulation Tools:** Proteus 8, Tinkercad (learning phase)
 - **Embedded Systems:** Microcontrollers, Arduino, ESP32  
 - **Programming:** C, Python (basic level)  
 
